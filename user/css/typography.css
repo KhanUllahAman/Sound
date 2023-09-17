@@ -1,0 +1,44 @@
+/*
+Template: Muzik - Responsive Bootstrap 4 Admin Dashboard Template
+Author: iqonicthemes.in
+Design and Developed by: iqonicthemes.in
+NOTE: This file contains the styling for responsive Template.
+*/
+
+/*================================================
+[  Table of contents  ]
+================================================
+
+:: Import Css
+:: Font
+:: General
+:: Input
+:: Loading
+:: Bootstrap override
+:: Background Color
+:: Custom Background Color
+:: Background Color Opacity
+:: Background Border Color
+:: Text Color
+:: Line Height
+:: Font Size
+:: Font Weight
+:: Avatar Size
+:: Margin Bottom
+:: Card
+:: Background overlay color
+:: Buttons
+:: Alert
+:: list Group
+:: Border
+:: Grid Boxes
+
+======================================
+[ End table content ]
+======================================*/
+
+
+/*---------------------------------------------------------------------
+import Css
+-----------------------------------------------------------------------*/
+@import url("variable.css");
